@@ -1,0 +1,58 @@
+.calculator {
+  background-color: #2a9bf1;
+  padding: 2rem 1rem;
+  color: white;
+  border: 0.1rem solid black;
+  border-radius: 20px;
+}
+
+.presiuneText {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.calculator div label {
+  display: flex;
+  flex-direction: column;
+}
+
+.calculator div {
+  display: flex;
+  flex-direction: column;
+}
+
+.calculator div input {
+  width: 10rem;
+  text-align: center;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  margin: 0 auto;
+}
+
+.calculator div button {
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: #161c2d;
+  color: white;
+  border-radius: 20px;
+  font-size: 1.25rem;
+}
+
+.result {
+  font-size: 1.25rem;
+  text-align: center;
+  border-bottom: 2px solid #161c2d;
+}
+
+.result h2 {
+  font-size: 1.25rem;
+}
+
+.result p {
+  color: #161c2d;
+  background-color: white;
+  padding: 0.5rem;
+  width: 40%;
+  margin: 0.5rem auto;
+  font-weight: bold;
+}
