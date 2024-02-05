@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/supape-calculator/static/css/main.3b66799f.css",
+    "main.js": "/supape-calculator/static/js/main.518bed05.js",
+    "static/media/Montserrat-Bold.ttf": "/supape-calculator/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Regular.ttf": "/supape-calculator/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/abccontrol.png": "/supape-calculator/static/media/abccontrol.129ced7045c5bb2c628b.png",
+    "index.html": "/supape-calculator/index.html",
+    "main.3b66799f.css.map": "/supape-calculator/static/css/main.3b66799f.css.map",
+    "main.518bed05.js.map": "/supape-calculator/static/js/main.518bed05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b66799f.css",
+    "static/js/main.518bed05.js"
+  ]
+}
